@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vietdt89
-- 👀 I’m interested in HMI/UI/UX
+- 👀 I’m interested in HMI/Linux
 - 🌱 I’m currently learning qt/qml/javascript
 - 💞️ I’m looking to collaborate on c++ project
 - 📫 How to reach me vietdt89@gmail.com
